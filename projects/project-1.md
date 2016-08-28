@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/check in.jpg
+title: Mobile Check-In App
+permalink: projects/check in.jpg
 date: 2016
 labels:
   - Mobile App
