@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/addressbook.jpg
 title: AddressBook
-permalink: projects/vacay
+permalink: projects/addressbook
 date: 2015
 labels:
   - C
