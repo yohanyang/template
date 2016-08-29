@@ -17,6 +17,7 @@ summary: A mobile check-in app that I made as course project through Appery.io i
 </div>
 
 Mobile check-in app is as it is named, it allows the users to check in their current location with the time that they checked in.
+d
 
 
 
