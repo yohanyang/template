@@ -18,7 +18,7 @@ summary: A mobile check in app that I created as project in ICS 321.
 
 Mobile check-in app is the project that I created as final for the ICS 321 course. As it is named, it is a Mobile application which allows the users to check in their current location with the time that they checked in. Based upon the appery.io, an online mobile app builder, JavaScript was used to create the app. An online geographical database service called findNearestAddressJSON provided by geonames.org was used to find the location. cPanel was used to create SQL database to store the data. The check in app enables users to check in, login, and to see latest checked in.
 
-<div class="ui large right rounded images">
+<div class="ui medium right floated rounded images">
   <img class="ui image" src="../images/checkinapp.jpg">
 </div>
 
