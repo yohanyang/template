@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/check in.jpg
+title: Moblie Check In App
+permalink: projects/check in
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Appery
+  - JavaScript
+  - Mobile
+summary: A mobile check in app that I created as project in ICS 321.
 ---
 
 <div class="ui small rounded images">
