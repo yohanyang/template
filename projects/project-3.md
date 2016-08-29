@@ -9,7 +9,7 @@ labels:
   - php
   - wordpress
   - history
-summary: The project that I did in HIST 402 and it is about exploring the History of South East Asia during the time of World War II. Edublogs powered by wordpress is used to post the subjects.
+summary: The HIST 402 project about exploring the History of South East Asia during the time of World War II. Edublogs powered by wordpress is used to post the subjects.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/edublog.jpg">
