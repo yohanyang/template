@@ -12,7 +12,7 @@ labels:
 summary: A mobile check in app that I created as project in ICS 321.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/appery.png">
 </div>
 
