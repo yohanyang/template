@@ -9,7 +9,7 @@ labels:
   - php
   - wordpress
   - history
-summary: A 
+summary: The project about exploring the History of South East Asia during the time of World War II. Edublogs powered by wordpress is used to post the subjects.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/edublog.jpg">
