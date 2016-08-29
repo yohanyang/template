@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Edublog WWII History Project
 permalink: projects/cotton
-date: 2014
+date: 2015
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - php
+  - wordpress
+  - history
+summary: A 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
