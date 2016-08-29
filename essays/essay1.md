@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: World of Engineering: Where am I heading to?
+title: World of Engineering Where am I heading to
 date: 2015-08-28
 labels:
   - Software Engineering
