@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wwii/jpg
+image: images/ww2.jpg
 title: Edublog WWII History Project
 permalink: projects/WWII History
 date: 2015
