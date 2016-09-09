@@ -1,5 +1,15 @@
-
-Reflect on smart questions
+---
+layout: essay
+type: essay
+title: Reflect on smart questions
+date: 2016-09-08
+labels:
+  - Software Engineering
+  - Open Source
+  - Expectation
+  - Future
+  - Technical Questioning
+---
 
 In the essay written by Eric Raymond, ‘How to ask questions the smart way’, it gives the wisdoms to how to ask question smartly in the area of computer related technologies. The targets and places for asking questions are clear, technical people who are filled with technical information and logic in their fields and website like Stack Overflow, Server Fault, Super User, and all kinds of forums for open sources and programming. And these people and places will be the place for software engineers to seek and get the answer and I think through appropriate asking will lead them to become smart software engineers including myself. Then, what are smart questions and what are not?
 
