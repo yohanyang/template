@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantically 
+title: Semantically Making Sense
 date: 2016-10-06
 labels:
   - HTML
