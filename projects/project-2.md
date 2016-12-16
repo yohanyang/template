@@ -4,12 +4,12 @@ type: project
 image: images/addressbook.jpg
 title: AddressBook
 permalink: projects/addressbook
-date: 2015
+date: 2016
 labels:
   - C
   - C++
   - Java
-summary: An addressbook that I created as ICS 212 course project in 2015
+summary: An addressbook that I created as ICS 212 course project in 2016
 ---
 
 <img class="ui medium right floated rounded image" src="../images/result.jpg">
