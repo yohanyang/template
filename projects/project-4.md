@@ -24,4 +24,4 @@ While developing the app with project teammates, Keanu Robles, Robert Figgs, Wya
 
 Through working on the project as team, I was able to experience how important and good to have working as group, not alone. Since this was my first group project that involved coding, I might telling the good points of it mostly, however, coping with the difficulties, putting ideas, making decision together were important and valuable experiences for me before I jump into the area for working. Lastly, I want to say thank you to my teammates who went through the project together.
 
-If you want to see our work, the GitHub for the project can be found <a ref="https://clubconnector.github.io/">here</a>.
+If you want to see our work, the GitHub for the project can be found <a href="https://clubconnector.github.io/">here</a>.
