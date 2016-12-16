@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/rsz_landing.png
 title: Club Connector App
 permalink: projects/group project
 date: 2016
