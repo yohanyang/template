@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hacc.png
 title: HRS GoldenEye(HACC 2017)
-permalink: projects/group project
+permalink: projects/group project competition
 date: 2017
 labels:
   - Laravel
